@@ -1,0 +1,13 @@
+# Local credentials
+config.properties
+
+# Maven build output
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
